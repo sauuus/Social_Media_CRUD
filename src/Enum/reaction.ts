@@ -1,0 +1,1 @@
+export  enum ReactionEnum{LIKE, LOVE}
